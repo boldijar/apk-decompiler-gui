@@ -8,11 +8,12 @@ using System.Windows.Forms;
 namespace pb5
 {
     class ExtractHelper
-    {
+    {   
       
         public static void ExtractApk(String apkPath)
         {
-          
+
+            FileHelper.ClearApkFolder();
             string zipPath = apkPath;
             string extractPath = FileHelper.GetApkFolder();
             System.IO.Compression.ZipFile.ExtractToDirectory(zipPath, extractPath);
