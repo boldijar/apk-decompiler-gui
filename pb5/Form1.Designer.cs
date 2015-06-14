@@ -41,6 +41,7 @@
             this.button1.TabIndex = 0;
             this.button1.Text = "Choose APK file";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -73,7 +74,6 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "APK Decompiler GUI";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
