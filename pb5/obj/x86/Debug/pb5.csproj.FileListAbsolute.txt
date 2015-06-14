@@ -1,0 +1,29 @@
+C:\Documents and Settings\elev\Desktop\pb5\pb5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\elev\Desktop\pb5\pb5\obj\x86\Debug\pb5.Form1.resources
+C:\Documents and Settings\elev\Desktop\pb5\pb5\obj\x86\Debug\pb5.Properties.Resources.resources
+C:\Documents and Settings\elev\Desktop\pb5\pb5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\elev\Desktop\pb5\pb5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\elev\Desktop\pb5\pb5\bin\Debug\admitere.sdf
+C:\Documents and Settings\elev\Desktop\pb5\pb5\bin\Debug\pb5.exe.config
+C:\Documents and Settings\elev\Desktop\pb5\pb5\bin\Debug\pb5.exe
+C:\Documents and Settings\elev\Desktop\pb5\pb5\bin\Debug\pb5.pdb
+C:\Documents and Settings\elev\Desktop\pb5\pb5\obj\x86\Debug\pb5.exe
+C:\Documents and Settings\elev\Desktop\pb5\pb5\obj\x86\Debug\pb5.pdb
+C:\Users\Paul\Desktop\PB5\pb5\bin\Debug\pb5.exe.config
+C:\Users\Paul\Desktop\PB5\pb5\obj\x86\Debug\pb5.exe
+C:\Users\Paul\Desktop\PB5\pb5\obj\x86\Debug\pb5.pdb
+C:\Users\Paul\Desktop\PB5\pb5\obj\x86\Debug\pb5.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Desktop\PB5\pb5\obj\x86\Debug\pb5.Form1.resources
+C:\Users\Paul\Desktop\PB5\pb5\obj\x86\Debug\pb5.Properties.Resources.resources
+C:\Users\Paul\Desktop\PB5\pb5\obj\x86\Debug\pb5.csproj.GenerateResource.Cache
+C:\Users\Paul\Desktop\PB5\pb5\bin\Debug\pb5.exe
+C:\Users\Paul\Desktop\PB5\pb5\bin\Debug\pb5.pdb
+C:\Users\Browsing\Desktop\fmm\pb5\bin\Debug\pb5.exe.config
+C:\Users\Browsing\Desktop\fmm\pb5\obj\x86\Debug\pb5.exe
+C:\Users\Browsing\Desktop\fmm\pb5\obj\x86\Debug\pb5.pdb
+C:\Users\Browsing\Desktop\fmm\pb5\bin\Debug\pb5.exe
+C:\Users\Browsing\Desktop\fmm\pb5\bin\Debug\pb5.pdb
+C:\Users\Browsing\Desktop\fmm\pb5\obj\x86\Debug\pb5.csprojResolveAssemblyReference.cache
+C:\Users\Browsing\Desktop\fmm\pb5\obj\x86\Debug\pb5.Form1.resources
+C:\Users\Browsing\Desktop\fmm\pb5\obj\x86\Debug\pb5.Properties.Resources.resources
+C:\Users\Browsing\Desktop\fmm\pb5\obj\x86\Debug\pb5.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Users\Browsing\Desktop\fmm\pb5\bin\Debug\APK Decompiler GUI.exe.config
+C:\Users\Browsing\Desktop\fmm\pb5\bin\Debug\APK Decompiler GUI.exe
+C:\Users\Browsing\Desktop\fmm\pb5\bin\Debug\APK Decompiler GUI.pdb
+C:\Users\Browsing\Desktop\fmm\pb5\obj\x86\Debug\apk-decompiler-gui.csproj.GenerateResource.Cache
+C:\Users\Browsing\Desktop\fmm\pb5\obj\x86\Debug\APK Decompiler GUI.exe
+C:\Users\Browsing\Desktop\fmm\pb5\obj\x86\Debug\APK Decompiler GUI.pdb
+C:\Users\Browsing\Desktop\fmm\pb5\obj\x86\Debug\apk-decompiler-gui.csprojResolveAssemblyReference.cache
+C:\Users\Browsing\Desktop\fmm\pb5\obj\x86\Debug\pb5.Form1.resources
+C:\Users\Browsing\Desktop\fmm\pb5\obj\x86\Debug\pb5.Properties.Resources.resources
