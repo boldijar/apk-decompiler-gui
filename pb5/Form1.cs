@@ -30,8 +30,28 @@ namespace pb5
 
         private void button1_Click(object sender, EventArgs e)
         {
-            CmdHelper.ExecuteCmd("echo sugi >> " + (DateTime.Now.Ticks / TimeSpan.TicksPerMillisecond )+ ".txt");
+            /* show a open file dialog */
+            OpenFileDialog openDialog = new OpenFileDialog();
+            openDialog.Filter="Apk Files (.apk)|*.apk|All Files (*.*)|*.*";
+            if(openDialog.ShowDialog()==DialogResult.OK)
+            {
+                /* if we clicked open */
+                LoadApk(openDialog.FileName);
+            }
         }
+
+        /* called when we want to load the apk */
+        private void LoadApk(string path)
+        {
+            ExtractHelper.ExtractApk(path);
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FileHelper.ClearApkFolder();
+        }
+
+         
 
 
        
