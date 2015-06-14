@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Forms;
  
 
-namespace app
+namespace pb5
 {
     public partial class Form1 : Form
     {

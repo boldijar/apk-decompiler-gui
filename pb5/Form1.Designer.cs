@@ -1,4 +1,4 @@
-﻿namespace app
+﻿namespace pb5
 {
     partial class Form1
     {

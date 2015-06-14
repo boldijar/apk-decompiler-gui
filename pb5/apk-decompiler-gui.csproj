@@ -8,7 +8,7 @@
     <ProjectGuid>{7C41FF64-4CB7-469D-AF40-7D6096CDEAF3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>app</RootNamespace>
+    <RootNamespace>pb5</RootNamespace>
     <AssemblyName>APK Decompiler GUI</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
