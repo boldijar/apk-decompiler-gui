@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Forms;
  
 
-namespace pb5
+namespace app
 {
     public partial class Form1 : Form
     {
@@ -18,7 +18,17 @@ namespace pb5
         public Form1()
         {
             InitializeComponent();
+
+            /* add the github url */
+            LinkLabel.Link link = new LinkLabel.Link();
+            link.LinkData = "https://github.com/BoldijarPaul/apk-decompiler-gui";
+            linkLabel1.Links.Add(link);
              
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
 
 
