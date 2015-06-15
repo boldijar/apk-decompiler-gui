@@ -2,7 +2,9 @@
 A C# web forms application where you can easily view the Java classes of an android application.
 
 How to use it?
-
+### What you need?
++ Microsoft NET Framework 4.5+ installed
++ Java installed
 
 ### Step 1
 [Download](https://github.com/BoldijarPaul/apk-decompiler-gui/blob/master/apk-decompiler-gui-download.zip?raw=true) and extract the the program.
